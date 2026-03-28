@@ -1,0 +1,316 @@
+[
+    {
+      "centre": "Ghim Moh Market Food Centre",
+      "area": "clementi",
+      "stalls": [
+        {
+          "stall_name": "Chuan Kee Boneless Braised Duck",
+          "food_mentioned": "Boneless Braised Duck",
+          "sentiment": "positive",
+          "quote": "Chuan Kee Boneless Braised Duck (20 Ghim Moh Road Market and Food Centre)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/7_new_hawker_stalls_added_to_spore_michelin_bib/l93uen0/"
+        },
+        {
+          "stall_name": "Ken & Vin Fresh Poultry",
+          "food_mentioned": "Fresh chicken, chicken parts",
+          "sentiment": "mixed",
+          "quote": "The birds used to cost me around $4 per kg but now it's close to $7",
+          "post_date": "2022-10-14",
+          "post_url": "https://www.reddit.com/r/singapore/comments/y3la1l/fresh_malaysia_chicken_fly_off_shelves_despite/is97aat/"
+        }
+      ]
+    },
+    {
+      "centre": "Redhill Market Food Centre",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "Fu Ming Cooked Food",
+          "food_mentioned": "Carrot Cake (Michelin Bib Gourmand winner)",
+          "sentiment": "positive",
+          "quote": "Fu Ming Cooked Food (Redhill Market)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/comment/l93uen0/"
+        },
+        {
+          "stall_name": "Fu He Mutton Soup",
+          "food_mentioned": "Mutton rib soup",
+          "sentiment": "positive",
+          "quote": "Delicious fall off the bone mutton rib soup from redhill food centre",
+          "post_date": "2025-09-20",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1njg97i/delicious_fall_off_the_bone_mutton_rib_soup_from/"
+        },
+        {
+          "stall_name": "Fu Ming Cooked Food (Mickey Mouse carrot cake)",
+          "food_mentioned": "Carrot cake",
+          "sentiment": "positive",
+          "quote": "normally always eat the mickey mouse carrot cake",
+          "post_date": "2025-09-21",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1njg97i/comment/nev52ux/"
+        }
+      ]
+    },
+    {
+      "centre": "Pasir Panjang Food Centre",
+      "area": "clementi",
+      "stalls": [
+        {
+          "stall_name": "Ivy Hainanese Herbal Mutton Soup",
+          "food_mentioned": "Hainanese herbal mutton soup",
+          "sentiment": "positive",
+          "quote": "Ivy Hainanese herbal mutton soup - Pasir Panjang mrt",
+          "post_date": "2025-09-08",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1nbf6w5/my_experience_in_singapore_as_a_foreigner_1_year/nd1rgu3/"
+        },
+        {
+          "stall_name": "Alan Seafood BBQ",
+          "food_mentioned": "Seafood BBQ",
+          "sentiment": "positive",
+          "quote": "Alan seafood bbq - Pasir Panjang mrt",
+          "post_date": "2025-09-08",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1nbf6w5/my_experience_in_singapore_as_a_foreigner_1_year/nd1rgu3/"
+        },
+        {
+          "stall_name": "Eat3Bowls",
+          "food_mentioned": "Garlic paste shredded chicken mee sua with intestine, grass jelly with fresh milk",
+          "sentiment": "positive",
+          "quote": "The garlic paste shredded chicken mee sua with intestine & grass jelly with fresh milk was delicious",
+          "post_date": "2024-03-30",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1br0pwr/rsingapore_random_discussion_and_small_questions/kx99w5y/"
+        }
+      ]
+    },
+    {
+      "centre": "Tiong Bahru Market",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "Muhammad Shazain Faiha Muslim Food Paradise",
+          "food_mentioned": "Briyani sets",
+          "sentiment": "positive",
+          "quote": "Muhammad Shazain Faiha Muslim food paradise Tiong bahru market, food seems good based on google reviews",
+          "post_date": "2025-09-12",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1ne1o1h/saf_representative_goes_mia_after_ordering_150/nds7e7k/"
+        },
+        {
+          "stall_name": "Hong Heng Fried Sotong Prawn Mee",
+          "food_mentioned": "Fried Sotong Prawn Mee",
+          "sentiment": "positive",
+          "quote": "Hong Heng Fried Sotong Prawn Mee (Tiong Bahru Market)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/7_new_hawker_stalls_added_to_spore_michelin_bib/l93uen0/"
+        },
+        {
+          "stall_name": "Koh Brother Pig's Organ Soup",
+          "food_mentioned": "Pig's Organ Soup",
+          "sentiment": "positive",
+          "quote": "Koh Brother Pig's Organ Soup (Tiong Bahru Market)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/7_new_hawker_stalls_added_to_spore_michelin_bib/l93uen0/"
+        },
+        {
+          "stall_name": "Tiong Bahru Hainanese Boneless Chicken Rice",
+          "food_mentioned": "Hainanese Boneless Chicken Rice",
+          "sentiment": "positive",
+          "quote": "Tiong Bahru Hainanese Boneless Chicken Rice (Tiong Bahru Market)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/7_new_hawker_stalls_added_to_spore_michelin_bib/l93uen0/"
+        }
+      ]
+    },
+    {
+      "centre": "Margaret Drive Hawker Centre",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "Sin Kee Chicken Rice",
+          "food_mentioned": "Whole steamed chicken, fragrant oily rice",
+          "sentiment": "positive",
+          "quote": "Some of my fondest memories growing up is sharing a whole steamed chicken with my parents from Sin Kee chicken rice",
+          "post_date": "2025-07-16",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1m1fe4c/what_are_some_things_in_singapore_that_feel_truly/n3hjvil/"
+        }
+      ]
+    },
+    {
+      "centre": "Tanglin Halt Market",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "50-year-old braised duck stall",
+          "food_mentioned": "Braised duck",
+          "sentiment": "positive",
+          "quote": "return of 50-year-old braised duck stall from Tanglin Halt",
+          "post_date": "2024-09-21",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1maef8d/new_punggol_coast_hawker_centre_opens_with_40/"
+        }
+      ]
+    },
+    {
+      "centre": "Ayer Rajah Market Food Centre",
+      "area": "clementi",
+      "stalls": [
+        {
+          "stall_name": "Salam (Abdhus Salam Rojak)",
+          "food_mentioned": "Fritter with small prawns (Indian rojak)",
+          "sentiment": "positive",
+          "quote": "I like the fritter with small prawns.. Salam at Ayer Rajah Market",
+          "post_date": "2026-01-25",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1qm0blv/comment/o1m1qd8/"
+        }
+      ]
+    },
+    {
+      "centre": "Alexandra Village Food Centre",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "Hong Kong Yummy Soup",
+          "food_mentioned": "Soup",
+          "sentiment": "positive",
+          "quote": "Hong Kong Yummy Soup (Alexandra Village Food Centre)",
+          "post_date": "2024-06-18",
+          "post_url": "https://www.reddit.com/r/singapore/comments/1dihfbq/7_new_hawker_stalls_added_to_spore_michelin_bib/l93uen0/"
+        },
+        {
+          "stall_name": "Durian Lab Cafe",
+          "food_mentioned": "MSW waffle/tart",
+          "sentiment": "positive",
+          "quote": "Hop over to durian lab cafe for a msw waffle/tart as dessert after",
+          "post_date": "2022-05-01",
+          "post_url": "https://www.reddit.com/r/singapore/comments/uf5s3y/musttry_hawker_fare/i6upm41/"
+        }
+      ]
+    },
+    {
+      "centre": "Commonwealth Crescent Market",
+      "area": "clementi",
+      "stalls": [
+        {
+          "stall_name": "Xi Le Ting",
+          "food_mentioned": "Traditional Chinese desserts (red bean soup, cheng tng, green bean soup)",
+          "sentiment": "positive",
+          "quote": "The dessert is so good it is worth getting scolded for",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Hong Kee Porridge",
+          "food_mentioned": "Cantonese porridge",
+          "sentiment": "positive",
+          "quote": "Probably the best Cantonese porridge you can find in sg",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Hammee's Burger",
+          "food_mentioned": "Burgers",
+          "sentiment": "positive",
+          "quote": "Slightly pricey but it's the best burgers you can find in a hawker center",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Foong Kee Traditional Charcoal Roasters",
+          "food_mentioned": "Char Siew",
+          "sentiment": "positive",
+          "quote": "Best Char Siew imo",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Henry Chicken Rice",
+          "food_mentioned": "Chicken rice",
+          "sentiment": "positive",
+          "quote": "A lot of my friends rate this as their favourite chicken rice",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Eng Kee Chicken Wing",
+          "food_mentioned": "Chicken Wing",
+          "sentiment": "positive",
+          "quote": "this is the OG branch, so you can be sure of the quality",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        },
+        {
+          "stall_name": "Jian Kang Wanton Mee",
+          "food_mentioned": "Wanton Mee",
+          "sentiment": "mixed",
+          "quote": "this is the exact taste for people who grew up in the 80s/90s. Though their char siew is terrible, the other wantons make up for it",
+          "post_date": "2023-07-03",
+          "post_url": "https://www.reddit.com/r/singapore/comments/14pjoou/commonwealth_hawker_82_maintains_s1_price_for_her/"
+        }
+      ]
+    },
+    {
+      "centre": "Zion Riverside Food Centre",
+      "area": "tiong_bahru",
+      "stalls": [
+        {
+          "stall_name": "Hoa Pei Jiao Zi",
+          "food_mentioned": "Guo tie, jiao zi, hot & sour soup",
+          "sentiment": "positive",
+          "quote": "they sold the best damn guo tie I've ever eaten. Crispy yet tender skin, tasty and oh so juicy filling inside",
+          "post_date": "2025-10-25",
+          "post_url": "https://www.reddit.com/r/askSingapore/comments/1ofhuxi/what_are_your_most_missed_food_businesses_that/nl9cob0/"
+        },
+        {
+          "stall_name": "Prawn noodle stall",
+          "food_mentioned": "Prawn noodle, Cha kuay tiao",
+          "sentiment": "positive",
+          "quote": "I will go for prawn noodle or Cha kuay tiao @ Zion Riverside food centre. Queue is long but worth it",
+          "post_date": "2025-11-22",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1p3txez/whats_your_goto_hawker_stall_when_you_need/nq7t6mi/"
+        },
+        {
+          "stall_name": "Fried kway teow stall",
+          "food_mentioned": "Fried kway teow",
+          "sentiment": "positive",
+          "quote": "I prefer Zion road riverside food centre better",
+          "post_date": "2025-11-25",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1p4e85f/outram_park_fried_kway_teow_at_hong_lim_market/nqor338/"
+        }
+      ]
+    },
+    {
+      "centre": "Clementi Ave 2 Market and Food Centre",
+      "area": "clementi",
+      "stalls": [
+        {
+          "stall_name": "1st stall Indian Muslim",
+          "food_mentioned": "Mutton leg soup",
+          "sentiment": "positive",
+          "quote": "Clementi Ave 2 market, 1st stall Indian Muslim mutton leg soup",
+          "post_date": "2025-11-22",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1p3mbqt/comment/nq5m7ri/"
+        },
+        {
+          "stall_name": "3rd stall Indian rojak",
+          "food_mentioned": "Indian rojak",
+          "sentiment": "positive",
+          "quote": "3rd stall Indian rojak",
+          "post_date": "2025-11-22",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1p3mbqt/comment/nq5m7ri/"
+        },
+        {
+          "stall_name": "Snow Mount",
+          "food_mentioned": "Goreng pisang",
+          "sentiment": "positive",
+          "quote": "Snow mount goreng pisang? It probably deserves a visit. I always see a queue",
+          "post_date": "2025-11-22",
+          "post_url": "https://www.reddit.com/r/SingaporeEats/comments/1p3mbqt/comment/nqhmxwn/"
+        },
+        {
+          "stall_name": "Prata stall at Blk 353",
+          "food_mentioned": "Prata Kosong, dhal curry",
+          "sentiment": "positive",
+          "quote": "lovely fluffy prata, dhal curry is flavourful and generous. This curry is THE reason I go queueeeeee",
+          "post_date": "2024-06-24",
+          "post_url": "https://www.reddit.com/r/askSingapore/comments/1dmsgpc/whats_the_best_prata_kosong_in_singapore_2024/la0irr0/"
+        }
+      ]
+    }
+  ]
